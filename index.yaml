@@ -3,12 +3,12 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-13T17:40:29.036986+03:00"
+    created: "2023-06-14T16:59:59.9171906+03:00"
     description: A Helm chart for Kubernetes
-    digest: f08e68c2768b8c3cd16983a0333f619a085139c6f6042bd489491acf5d9355e0
+    digest: f1dff40392924280f68b1ba237cdd49ec5b2d648eb97a66dbad8a42f43a2dc87
     name: my-app
     type: application
     urls:
-    - https://github.com/maximkoshel/ArgoCD-Test/tree/f59ede38635adc48bba155a93b42d6c291813a6b/my-app-0.1.0.tgz
+    - https://maximkoshel.github.io/ArgoCD-Test/my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-13T17:40:29.0359858+03:00"
+generated: "2023-06-14T16:59:59.9166788+03:00"
